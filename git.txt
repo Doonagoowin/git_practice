@@ -1,2 +1,15 @@
-git init
-touch
+git init - once per project
+touch .gitignore
+add files to .gitignore
+save and test files
+git add .
+git commit -m 'message'
+git log
+copy SSH
+git remote add origin "SSH"
+
+
+
+git reset HEAD main.rb
+git checkout main.rb
+git reset --hard HEAD
